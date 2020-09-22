@@ -46,6 +46,6 @@ The number of steps of the Successive Umbrella Sampling in each window is given 
 
 ## Output Data
 
-* **prob*.dat**: The probability distribution over the range of order paramter.
+* **prob\*.dat**: The probability distribution over the range of order paramter.
 
-* **spin*.dat**: A snapshot of the system at 50-50 composition.
+* **spin\*.dat**: A snapshot of the system at 50-50 composition.
